@@ -123,16 +123,21 @@
 
 ## SIC图表学习
 
-### [Exp Hematol Oncol](https://ehoonline.biomedcentral.com/articles/10.1186/s40164-021-00200-x)
+### [Exp Hematol Oncol Fig1 Fig2a/b](https://ehoonline.biomedcentral.com/articles/10.1186/s40164-021-00200-x)
 
 - [ggplot2绘制突变全景图](https://mp.weixin.qq.com/s/IOk1Lbi3sVIDjwMk5Jz-iA)
 
-### [Nat.Commun](https://www.nature.com/articles/s41467-022-28421-6)
+### [Nat.Commun Fig1](https://www.nature.com/articles/s41467-022-28421-6)
 
 - [批次效应去除之combat和removebatcheffect](https://mp.weixin.qq.com/s/yRUmVTimI9f9itoHWxyYrA)
 - [免疫浸润结果分子分型（一致性聚类ConsensusClusterPlus）](https://mp.weixin.qq.com/s/96s_hfBH0HjLvvTfNgTIlQ)
 - [免疫相关lncRNA的识别](https://mp.weixin.qq.com/s/jrgZ6brGyrh1cAnW6Ddp3w)
 - [WGCNA实战：识别免疫相关lncRNA](https://mp.weixin.qq.com/s/Pr33WscVtNQQaoryxTiJ-Q)
+
+### [Molecular Cancer Fig1E Fig2A](https://molecular-cancer.biomedcentral.com/articles/10.1186/s12943-020-01170-0)
+
+- [3D-PCA图](https://mp.weixin.qq.com/s/LTQIWYW86QCOEu7fctF8xQ)
+- [R语言生信图表学习之网络图](https://mp.weixin.qq.com/s/t8UrYMO5fDkFjB2GI8WuXQ)
 
 ## 其他
 
