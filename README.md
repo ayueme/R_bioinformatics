@@ -1,7 +1,7 @@
 # R_bioinformatics
 > 一个临床医生的生信学习之路。
 
-这里是我在公众号**医学和生信笔记**中发表的和**生信数据挖掘**有关的推文合集，并且进行了简单的分类。
+这里是我在公众号**医学和生信笔记**中发表的和**生信数据挖掘**有关的推文合集，并且进行了简单的分类，所有文件都是`markdown`格式。
 
 生信分析需要的数据量巨大，且多数都是可以直接下载的，所以这里并没有数据，个别的外部数据我都在推文中注明了获取方式。
 
@@ -25,7 +25,7 @@
 - [count、tpm、fpkm等表达量差异](https://mp.weixin.qq.com/s/aff-AX9aA2tSDa2zbB8ZRQ)
 - [批量生存分析(logrank和单因素COX)](https://mp.weixin.qq.com/s/o-gCc_1B9SQmNFrG-I6yAQ)
 - [解决TCGA批量生存分析报错：there is only 1 group](https://mp.weixin.qq.com/s/8AYsnJ9KiEigVPKI5NunCg)
-- 在医学统计合集中还有其他关于生存分析的内容
+- 在[R语言医学统计合集](https://ayueme.github.io/)中还有其他关于生存分析基础知识的内容
 
 ### 差异分析
 
@@ -35,6 +35,7 @@
 - [DESeq2差异分析及VST变换的探索](https://mp.weixin.qq.com/s/CBznByKNGwPEKIKM5U0Oyw)
 - [limma差异分析，谁和谁比很重要吗？](https://mp.weixin.qq.com/s/vdkDcBzuoqCASts61efjBw)
 - [单基因差异分析并绘制火山图和热图](https://mp.weixin.qq.com/s/IZ7_46zJjXba7I73-Im9hw)
+- [手动计算logFC（wilcoxon差异分析）](https://mp.weixin.qq.com/s/xMOvyr-I9VVBw0-DJ5-hYQ)
 
 ### 富集分析
 
@@ -60,10 +61,18 @@
 ### WGCNA
 
 - [WGCNA实战：识别免疫相关lncRNA](https://mp.weixin.qq.com/s/Pr33WscVtNQQaoryxTiJ-Q)
+- WGCNA分类变量的处理
 
 ### 分子分型
 
 - [免疫浸润结果分子分型（一致性聚类ConsensusClusterPlus）](https://mp.weixin.qq.com/s/96s_hfBH0HjLvvTfNgTIlQ)
+- MOVICS
+- CancerSubtypes
+
+### 药物敏感性
+
+- oncoPredict
+- pRRophetic
 
 ## TCGA
 
@@ -87,7 +96,7 @@
 
 ### easyTCGA
 
-详情请参考：[GitHub - ayueme/easyTCGA: Speed up your TCGA analysis!](https://github.com/ayueme/easyTCGA)
+专为下载和整理TCGA数据而开发的R包，1行代码完成一个分析，详情请参考：[GitHub - ayueme/easyTCGA: Speed up your TCGA analysis!](https://github.com/ayueme/easyTCGA)
 
 - [easyTCGA：让初学者也能享受“征服”TCGA的喜悦](https://mp.weixin.qq.com/s/kvGYVCOSBgKqVaeQU01JcA)
 - [easyTCGA：1行代码搞定TCGA的6种表达矩阵和临床信息](https://mp.weixin.qq.com/s/z1fgyXLZXwmoaI39f2ftYw)
@@ -115,11 +124,19 @@
 
 - [任意基因在泛癌中的表达量展示](https://mp.weixin.qq.com/s/MIDRG57oRSMTyX6Gm99-3w)
 
+- 泛癌的GSVA和GSEA
+
 ## 单细胞
 
 - [单细胞入门之Seurat标准流程](https://mp.weixin.qq.com/s/ymdhvgcqyek2wGsDgKChfg)
 - [单细胞入门之多样本整合](https://mp.weixin.qq.com/s/3w_-rYSdA31xxH83qaUy2Q)
 - [单细胞入门之细胞类型鉴定](https://mp.weixin.qq.com/s/Sdx9oLC9LII7iyYl0VLKlg)
+
+## 单基因
+
+- [单基因富集分析](https://mp.weixin.qq.com/s/q6nkujgTYlbOQpkENjyyxA)
+
+- [单基因差异分析并绘制火山图和热图](https://mp.weixin.qq.com/s/IZ7_46zJjXba7I73-Im9hw)
 
 ## SIC图表学习
 
@@ -133,6 +150,7 @@
 - [免疫浸润结果分子分型（一致性聚类ConsensusClusterPlus）](https://mp.weixin.qq.com/s/96s_hfBH0HjLvvTfNgTIlQ)
 - [免疫相关lncRNA的识别](https://mp.weixin.qq.com/s/jrgZ6brGyrh1cAnW6Ddp3w)
 - [WGCNA实战：识别免疫相关lncRNA](https://mp.weixin.qq.com/s/Pr33WscVtNQQaoryxTiJ-Q)
+- 汇总版：[SCI图表学习：1篇NC的Fig1](https://mp.weixin.qq.com/s/6-owPiL_hgVInXOsWOO9Fw)
 
 ### [Molecular Cancer Fig1E Fig2A](https://molecular-cancer.biomedcentral.com/articles/10.1186/s12943-020-01170-0)
 
