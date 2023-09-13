@@ -13,8 +13,8 @@
 
 ## 基础知识
 
-- [生信初学者基础知识资源推荐]()
-- [学生信必知的镜像设置（加快你的下载速度）]()
+- [生信初学者基础知识资源推荐](https://mp.weixin.qq.com/s/T-C2xXbpyICC90TgLIJoSQ)
+- [学生信必知的镜像设置（加快你的下载速度）](https://mp.weixin.qq.com/s/O5Ioy9jIoPyYLgIkvrfkEQ)
 
 ## 常见下游分析
 
@@ -102,11 +102,8 @@
 - [easyTCGA：1行代码搞定TCGA的6种表达矩阵和临床信息](https://mp.weixin.qq.com/s/z1fgyXLZXwmoaI39f2ftYw)
 - [easyTCGA：1行代码搞定TCGA突变maf文件下载和整理](https://mp.weixin.qq.com/s/GBkB8Hv45l06BVnyFNFzzw)
 - [easyTCGA生存分析支持最佳截点，任意基因在不同组中的表达量箱线图](https://mp.weixin.qq.com/s/Qc9m6hX-qKVJt5GzrXY9bA)
-
 - [TCGA、GTEx的泛癌数据也是1行代码整理](https://mp.weixin.qq.com/s/SzGB1wVH_DNBbXxvkBe5NA)
-
 - [任意基因在泛癌中的表达量展示](https://mp.weixin.qq.com/s/MIDRG57oRSMTyX6Gm99-3w)
-
 - [b站视频教程](https://space.bilibili.com/42460432)；视频教程略旧，很多新特性没介绍
 
 ## 甲基化
@@ -124,7 +121,9 @@
 
 - [任意基因在泛癌中的表达量展示](https://mp.weixin.qq.com/s/MIDRG57oRSMTyX6Gm99-3w)
 
-- 泛癌的GSVA和GSEA
+- 泛癌的GSVA和GSEA等
+
+- 泛癌多组学
 
 ## 单细胞
 
