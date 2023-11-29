@@ -13,7 +13,7 @@
 
 ## 基础知识
 
-- [生信初学者基础知识资源推荐](https://mp.weixin.qq.com/s/T-C2xXbpyICC90TgLIJoSQ)
+- [生信初学者基础知识资源推荐](https://mp.weixin.qq.com/s/T-C2xXbpyICC90TgLIJoSQ)，注意，文中涉及的电子书网址已变为：http://bio-info-trainee.com/basic/ 
 - [学生信必知的镜像设置（加快你的下载速度）](https://mp.weixin.qq.com/s/O5Ioy9jIoPyYLgIkvrfkEQ)
 
 ## 常见下游分析
@@ -61,18 +61,20 @@
 ### WGCNA
 
 - [WGCNA实战：识别免疫相关lncRNA](https://mp.weixin.qq.com/s/Pr33WscVtNQQaoryxTiJ-Q)
-- WGCNA分类变量的处理
+- [WGCNA分类变量的处理](https://mp.weixin.qq.com/s/lariR2vam10Qbs0f0pD-VA)
 
 ### 分子分型
 
 - [免疫浸润结果分子分型（一致性聚类ConsensusClusterPlus）](https://mp.weixin.qq.com/s/96s_hfBH0HjLvvTfNgTIlQ)
-- MOVICS
+- [MOVICS：分子分型一站式R包(01)](https://mp.weixin.qq.com/s/nC9D0OZpy3qTKoejpWv5Mw)
+- [MOVICS：分子分型一站式R包(02)](https://mp.weixin.qq.com/s/DyLiI5qGLt_cJusveDUPRw)
+- [MOVICS：分子分型一站式R包(03)](https://mp.weixin.qq.com/s/B9R5Y-3Kx-BvLo1bOtLk5A)
 - CancerSubtypes
 
 ### 药物敏感性
 
-- oncoPredict
-- pRRophetic
+- [药物敏感性分析之pRRophetic](https://mp.weixin.qq.com/s/y7QNhAtpKFe3EgrgBq-zFQ)
+- [药物敏感性分析之oncoPredict](https://mp.weixin.qq.com/s/pZB-P3iAdX1AGCbtRkSz2w)
 
 ## TCGA
 
